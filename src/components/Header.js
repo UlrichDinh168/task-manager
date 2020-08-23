@@ -1,8 +1,8 @@
 import React from 'react'
 
-const Header = () => {
+function Header() {
   return (
-    <div className='header'>
+    <div className="header">
       <h1>Task Manager</h1>
     </div>
   )
